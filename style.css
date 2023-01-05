@@ -1,0 +1,23 @@
+td {
+  width: 107px;
+  height: 107px;
+}
+
+.left {
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+}
+
+.right {
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  border-right: 0px;
+  border-left: 0px;
+}
+
+.middle {
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+}
